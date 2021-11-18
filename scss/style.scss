@@ -97,7 +97,6 @@ footer{
     &__inner{
         @include inner();
     }
-
     &__list{
         display: flex;
         flex-wrap: wrap;
